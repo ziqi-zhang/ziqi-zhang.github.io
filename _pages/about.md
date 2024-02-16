@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ziqi Zhang (pronounced as /tzi chi chang/). I'm currently a Postdoc Researcher at the School of Computer Science, Peking University. I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I got my Bachelor degree in the School of EECS, Peking University. My research interest lies in Software Engineering and AI, AI Security, and software security.
+Hi, I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Researcher at the School of Computer Science, Peking University. I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I got my Bachelor degree in the School of EECS, Peking University. My research interest lies in Software Engineering and AI, AI Security, and software security.
 
 
 Research Interests
