@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Ziqi Zhang"
 title_separator          : "-"
 name                     : &name "Ziqi Zhang (张子祺)"
 description              : &description "personal description"
