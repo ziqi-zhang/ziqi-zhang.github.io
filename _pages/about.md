@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ziqi Zhang's Homepage"
+title: "Ziqi Zhang 张子祺"
 author_profile: true
 redirect_from: 
   - /about/
