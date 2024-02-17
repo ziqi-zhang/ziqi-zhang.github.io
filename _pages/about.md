@@ -9,12 +9,14 @@ redirect_from:
 
 Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Researcher at the School of Computer Science, Peking University. I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I got my Bachelor degree in the School of EECS, Peking University. My research interest lies in Software Engineering and AI, AI Security, and software security.
 
+I'm always open to collaborations on AI security and software engineering, including trusted AI, AI with trusted hardware, AI4SE, and SE4AI. If you would like my collaboration or advise for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to other related research problems!
+
 
 Research Interests
 ======
-1. Software Engineering and AI
-2. AI Security
-3. Software Security
+1. Software Engineering and AI: model slicing [ESEC/FSE'20, ICSE'22], model testing [ISSTA'21]
+2. AI Security: federated learning [ICSE'23, Ubicomp'22, WWW'23], TEE-Shielded AI models [S&P'24]
+3. Software Security: memory isolation [CCS'23b], security of SGX applications [CCS'23a]
 
 
 Publications
@@ -22,9 +24,9 @@ Publications
 
 - **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**)
 
-- **[CCS'23]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
+- **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
 
-- **[CCS'23]** Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
+- **[CCS'23b]** Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
 
 - **[WWW'23]**  Bingyan Liu, Yifeng Cai, Hongzhe Bi, **Ziqi Zhang**, Ding Li, Yao Guo, Xiangqun Chen. "Beyond Fine-Tuning: Efficient and Effective Fed-Tuning for Mobile/Web Users". In Proceedings of the 32th Web Conference. (**CCF-A**, 365/1900=19.2%)
 
@@ -46,8 +48,9 @@ Publications
 Invited Talks
 =====
 1. Ant Group, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
-2. [NetSys](https://netsys.doc.ic.ac.uk/) weekly seminar, Imperial College London, Nov 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
-3. Ant Group, Beijing, Aug 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+2. Security Group @ TouTiao, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+3. [NetSys](https://netsys.doc.ic.ac.uk/) weekly seminar, Imperial College London, Nov 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+4. Ant Group, Beijing, Aug 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
 
 
 
