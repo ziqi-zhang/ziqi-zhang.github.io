@@ -22,7 +22,7 @@ Research Interests
 Publications
 =====
 
-- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**) [paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [artifact](https://github.com/ziqi-zhang/TEESlice-artifact) [tool TAOISM](https://github.com/ziqi-zhang/TAOISM)
+- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [[artifact]](https://github.com/ziqi-zhang/TEESlice-artifact) [[tool TAOISM]](https://github.com/ziqi-zhang/TAOISM)
 
 - **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted). 
 
@@ -30,7 +30,7 @@ Publications
 
 - **[WWW'23]**  Bingyan Liu, Yifeng Cai, Hongzhe Bi, **Ziqi Zhang**, Ding Li, Yao Guo, Xiangqun Chen. "Beyond Fine-Tuning: Efficient and Effective Fed-Tuning for Mobile/Web Users". In Proceedings of the 32th Web Conference. (**CCF-A**, 365/1900=19.2%)
 
-- **[ICSE'23]** **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 209/796=26.2%)
+- **[ICSE'23]** **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 209/796=26.2%) [[paper]](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00049) [[code]](https://zenodo.org/records/7536375)
 
 - **[ISSRE'23]** Shaokun Zhang, Wu Linna, Yuanchun Li, **Ziqi Zhang**, Hanwei Lei, Ding Li, Yao Guo, and Xiangqun Chen. "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching". In IEEE International Symposium on Software Reliability Engineering. (**CCF-B**, Accepted)
 
