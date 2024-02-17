@@ -34,7 +34,7 @@ Publications
 
 - **[ISSRE'23]** Shaokun Zhang, Wu Linna, Yuanchun Li, **Ziqi Zhang**, Hanwei Lei, Ding Li, Yao Guo, and Xiangqun Chen. "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching". In IEEE International Symposium on Software Reliability Engineering. (**CCF-B**, Accepted)
 
-- **[ICSE'22]** **Ziqi Zhang**, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 197/751≈26.2%)
+- **[ICSE'22]** **Ziqi Zhang**, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 197/751≈26.2%) [[paper]](https://ieeexplore.ieee.org/document/9793881/) [[code]](https://github.com/PKU-ASAL/ReMoS_artifact)
 
 - **[ISSTA'22W]** **Ziqi Zhang**, Lucien K. L. Ng, Yifeng Cai, Yao Guo, Bingyan Liu, Ding Li, and Xiangqun Chen. “TEESlice: Slicing DNN Models for Secure and Efficient Deployment inside TEEs”. 
 
@@ -43,7 +43,7 @@ Publications
 
 - **[ISSTA'21]** Yuanchun Li, **Ziqi Zhang**, Bingyan Liu, Ziyue Yang, Yunxin Liu. “ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection”. The ACM SIGSOFT International Symposium on Software Testing and Analysis. (**CCF-A**, 51/233=21.9%)
 
-- **[ESEC/FSE'20]** **Ziqi Zhang**, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (**CCF-A**, 101/360≈28.0%)
+- **[ESEC/FSE'20]** **Ziqi Zhang**, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (**CCF-A**, 101/360≈28.0%) [[paper]](https://dl.acm.org/doi/10.1145/3368089.3409676) [[code]](https://dl.acm.org/do/10.5281/zenodo.3901405/full/)
 
 Invited Talks
 =====
