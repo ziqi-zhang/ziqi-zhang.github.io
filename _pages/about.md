@@ -20,12 +20,29 @@ Research Interests
 Publications
 =====
 
-- **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S\&P 2024. (\textbf{CCF-A})
+- **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**)
 
-- **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering (ICSE 2023). (\textbf{CCF-A}, 209/796=26.2\%)
-  
+- Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2023. (**CCF-A**, Accepted).
+
+- Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications", In Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2023. (**CCF-A**, Accepted).
+
+- Bingyan Liu, Yifeng Cai, Hongzhe Bi, **Ziqi Zhang**, Ding Li, Yao Guo, Xiangqun Chen. "Beyond Fine-Tuning: Efficient and Effective Fed-Tuning for Mobile/Web Users". In Proceedings of the 32th Web Conference (WWW 2023). (**CCF-A**, 365/1900=19.2%)
+
+- **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering (ICSE 2023). (**CCF-A**, 209/796=26.2%)
+
+- Shaokun Zhang, Wu Linna, Yuanchun Li, **Ziqi Zhang**, Hanwei Lei, Ding Li, Yao Guo, and Xiangqun Chen. "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching". In IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023. (**CCF-B**, Accepted)
+
+- **Ziqi Zhang**, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of International Conference on Software Engineering (ICSE 2022). (**CCF-A**, 197/751≈26.2%)
+
+- **Ziqi Zhang**, Lucien K. L. Ng, Yifeng Cai, Yao Guo, Bingyan Liu, Ding Li, and Xiangqun Chen. “TEESlice: Slicing DNN Models for Secure and Efficient Deployment inside TEEs”. AISTA Workshop @ ISSTA 2022, Accepted.
 
 
+- Bingyan Liu, Yifeng Cai, **Ziqi Zhang**, Yuanchun Li, Leye Wang, Ding Li, Yao Guo, Xiangqun Chen. “DistFL: Distribution-aware Federated Learning for Mobile Scenarios”. In ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp 2022). (**CCF-A**)
+
+- Yuanchun Li, **Ziqi Zhang**, Bingyan Liu, Ziyue Yang, Yunxin Liu. “ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection”. The ACM SIGSOFT International Symposium on Software Testing and Analysis. (ISSTA 2021). (**CCF-A**, 51/233=21.9%)
+
+- **Ziqi Zhang**, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). (**CCF-A**,
+  101/360≈28.0%)
 
 Invited Talks
 =====
