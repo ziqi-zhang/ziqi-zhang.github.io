@@ -22,9 +22,9 @@ Research Interests
 Publications
 =====
 
-- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**)
+- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S&P 2024. (**CCF-A**) [paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [artifact](https://github.com/ziqi-zhang/TEESlice-artifact) [tool TAOISM](https://github.com/ziqi-zhang/TAOISM)
 
-- **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
+- **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted). 
 
 - **[CCS'23b]** Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications", In Proceedings of the ACM Conference on Computer and Communications Security. (**CCF-A**, Accepted).
 
