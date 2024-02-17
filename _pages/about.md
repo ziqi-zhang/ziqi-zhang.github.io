@@ -19,8 +19,12 @@ Research Interests
 
 Publications
 =====
-1. XXX
-2. XXX
+
+- **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. In Proceedings of IEEE S\&P 2024. (\textbf{CCF-A})
+
+- **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering (ICSE 2023). (\textbf{CCF-A}, 209/796=26.2\%)
+  
+
 
 
 Invited Talks
