@@ -9,14 +9,15 @@ redirect_from:
 
 Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Researcher at UIUC, supervied by [Lingming Zhang](https://lingming.cs.illinois.edu/index.html). I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I got my Bachelor degree in the School of EECS, Peking University. My research interest lies in Software Engineering and AI, AI Security, and software security.
 
-I'm always open to collaborations on AI security and software engineering, including trusted AI, AI with trusted hardware, AI4SE, and SE4AI. If you would like my collaboration or advise for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to other related research problems!
+I'm always open to collaborations on AI security and software engineering, including trusted AI, AI with trusted hardware (e.g. SGX, TDX, TrustZone), AI4SE, and SE4AI. If you would like my collaboration or suggestion for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to other related research problems!
 
 
 Research Interests
 ======
-1. Software Engineering and AI: model slicing [ESEC/FSE'20, ICSE'22], model testing [ISSTA'21]
-2. AI Security: federated learning [ICSE'23, Ubicomp'22, WWW'23], TEE-Shielded AI models [S&P'24]
-3. Software Security: memory isolation [CCS'23b], security of SGX applications [CCS'23a]
+1. TEE-based Model Protection: TEE-Shielded DNN Partition [S&P'24]
+2. Software Engineering and AI: model slicing [ESEC/FSE'20, ICSE'22], model testing [ISSTA'21]
+3. Privacy: federated learning [ICSE'23, Ubicomp'22, WWW'23]
+5. Software Security: memory isolation [CCS'23b], security of SGX applications [CCS'23a]
 
 
 Publications
