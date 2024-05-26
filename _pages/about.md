@@ -12,6 +12,7 @@ Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Rese
 My research interests lie in AI security, software engineering, and software security. My topics include trusted AI, AI with trusted hardware (e.g., SGX, TDX, TrustZone), AI4SE, and SE4AI. I have published several papers at top-tier conferences in various domains, including computer security (S&P, USENIX Security, CCS), software engineering (ESEC/FSE, ICSE, ISSTA, ISSRE), AI (ICML, WWW), and ubiquitous computing (Ubicomp).
 I'm always open to collaborations. Feel free to reach out if you would like my collaboration or suggestions for your research projects! In addition to the aforementioned research interests, I am also open to other related research problems!
 
+Download my [CV](https://ziqi-zhang.github.io/files/ZiqiZhang-CV.pdf) here.
 
 Research Interests
 ======
