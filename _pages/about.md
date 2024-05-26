@@ -41,9 +41,9 @@ Other Publications
 - **[USENIX Security'24]** Yifeng Cai, **Ziqi Zhang**, Jiaping Gui, Bingyan Liu, Xiaoke Zhao, Ruoyu Li, Zhe Li, Ding Li. "FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning" (**CCF-A**, Accepted).
 - **[ICML'24]** Zheng Zhang, Na Wang, **Ziqi Zhang**, Tianyi Zhang, Jianwei Liu, Yao Zhang, Ye Wu. "GroupCover: A Secure, Efficient and Scalable Inference Framework for On-device Model Protection based on TEEs" (**CCF-A**, Accepted).
 
-- **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution" (**CCF-A**, Accepted). 
+- **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution" (**CCF-A**, 158/795=19.87%). 
 
-- **[CCS'23b]** Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications" (**CCF-A**, Accepted).
+- **[CCS'23b]** Hanwen Lei, **Ziqi Zhang**, Shaokun Zhang, Peng Jiang, Zhineng Zhong, Ningyu He, Ding Li, Yao Guo, and Xiangqun Chen. "Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications" (**CCF-A**, 158/795=19.87%).
 
 - **[WWW'23]**  Bingyan Liu, Yifeng Cai, Hongzhe Bi, **Ziqi Zhang**, Ding Li, Yao Guo, Xiangqun Chen. "Beyond Fine-Tuning: Efficient and Effective Fed-Tuning for Mobile/Web Users" (**CCF-A**, 365/1900=19.2%)
 
