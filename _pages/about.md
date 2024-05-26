@@ -39,7 +39,7 @@ Selected Publications
 Other Publications
 =====
 - **[USENIX Security'24]** Yifeng Cai, **Ziqi Zhang**, Jiaping Gui, Bingyan Liu, Xiaoke Zhao, Ruoyu Li, Zhe Li, Ding Li. "FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning" (**CCF-A**, Accepted).
-- **[ICML'24]** Zheng Zhang, Na Wang, **Ziqi Zhang**, Tianyi Zhang, Jianwei Liu, Yao Zhang, Ye Wu. "GroupCover: A Secure, Efficient and Scalable Inference Framework for On-device Model Protection based on TEEs" (**CCF-A**, Accepted).
+- **[ICML'24]** Zheng Zhang, Na Wang, **Ziqi Zhang**, Tianyi Zhang, Jianwei Liu, Yao Zhang, Ye Wu. "GroupCover: A Secure, Efficient and Scalable Inference Framework for On-device Model Protection based on TEEs" (**CCF-A**, 2609/9653=27.03%).
 
 - **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution" (**CCF-A**, 158/795=19.87%). 
 
