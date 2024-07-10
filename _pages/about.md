@@ -29,7 +29,7 @@ Education
 
 Selected Publications
 =====
-- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. (**CCF-A**) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [[artifact]](https://github.com/ziqi-zhang/TEESlice-artifact) [[tool TAOISM]](https://github.com/ziqi-zhang/TAOISM)
+- **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. (**CCF-A**) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [[artifact]](https://github.com/ziqi-zhang/TEESlice-artifact) [[tool TAOISM]](https://github.com/ziqi-zhang/TAOISM) [[PPT]](files/TEESlice-SP-upload.pdf)
 
 - **[ICSE'23]** **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 209/796=26.2%) [[paper]](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00049) [[code]](https://zenodo.org/records/7536375)
 
