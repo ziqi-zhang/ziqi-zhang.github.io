@@ -18,7 +18,7 @@ Research Interests
 ======
 1. TEE-based Model Protection: TEE-Shielded DNN Partition [S&P'24, ICML'24]
 2. Software Engineering and AI: model slicing [ESEC/FSE'20, ICSE'22], model testing [ISSTA'21]
-3. Privacy: federated learning [ICSE'23, Ubicomp'22, WWW'23, Security'24]
+3. AI Security: federated learning [ICSE'23, Ubicomp'22, WWW'23], authentication [Security'24], adversarial defense [S&P'25]
 5. Software Security: memory isolation [CCS'23b], security of SGX applications [CCS'23a]
 
 
@@ -34,12 +34,18 @@ Selected Publications
 - **[ICSE'23]** **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 209/796=26.2%) [[paper]](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00049) [[code]](https://zenodo.org/records/7536375) [[PPT]](files/ICSE23-FedSlice-upload.pdf)
 
 - **[ICSE'22]** **Ziqi Zhang**, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of International Conference on Software Engineering. (**CCF-A**, 197/751≈26.2%) [[paper]](https://ieeexplore.ieee.org/document/9793881/) [[code]](https://github.com/PKU-ASAL/ReMoS_artifact) [[PPT]](files/ICSE22-ReMoS-upload.pdf)
+
 - **[ESEC/FSE'20]** **Ziqi Zhang**, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (**CCF-A**, 101/360≈28.0%) [[paper]](https://dl.acm.org/doi/10.1145/3368089.3409676) [[code]](https://dl.acm.org/do/10.5281/zenodo.3901405/full/) [[PPT]](files/FES20-NNSlicer-upload.pdf)
 
   
 Other Publications
 =====
+- **[S&P'25]** Shaofei Li, **Ziqi Zhang**, Haoming Jia, Yao Guo, Xiangqun Chen, and Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks" (**CCF-A**, Accepted)
+
+- **[RTSS'24]** Zhaomeng Deng, **Ziqi Zhang**, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu, and Ding Li. "Interference-free Operating System: A 6 Years’ Experience in Mitigating Cross-Core Interference in Linux" (**CCF-A**, Accepted)
+
 - **[USENIX Security'24]** Yifeng Cai, **Ziqi Zhang**, Jiaping Gui, Bingyan Liu, Xiaoke Zhao, Ruoyu Li, Zhe Li, Ding Li. "FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning" (**CCF-A**, Accepted).
+
 - **[ICML'24]** Zheng Zhang, Na Wang, **Ziqi Zhang**, Tianyi Zhang, Jianwei Liu, Yao Zhang, Ye Wu. "GroupCover: A Secure, Efficient and Scalable Inference Framework for On-device Model Protection based on TEEs" (**CCF-A**, 2609/9653=27.03%).
 
 - **[CCS'23a]** Yuanpeng Wang, **Ziqi Zhang**, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen. "SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution" (**CCF-A**, 158/795=19.87%). 
@@ -60,17 +66,18 @@ Other Publications
 
 Invited Talks
 =====
-1. Ant Group, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
-2. Security Group @ TouTiao, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
-3. [NetSys](https://netsys.doc.ic.ac.uk/) weekly seminar, Imperial College London, Nov 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
-4. Ant Group, Beijing, Aug 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+1. UIUC CS591 Security Seminar, Urbana, Sep 2024. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+2. Ant Group, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+3. Security Group @ TouTiao, Beijing, Dec 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+4. [NetSys](https://netsys.doc.ic.ac.uk/) weekly seminar, Imperial College London, Nov 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
+5. Ant Group, Beijing, Aug 2023. *No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML*
 
 
 
 Academic Services
 =====
-1. **PC Member**: LLM4Code @ ICSE'24
-2. **Reviewer**: TDSC'23, WWW'24
+1. **PC Member**: LLM4Code @ ICSE'24, ASE'24
+2. **Reviewer**: TDSC'23, WWW'24, WWW'25
 
 Honors and Awards
 =====
