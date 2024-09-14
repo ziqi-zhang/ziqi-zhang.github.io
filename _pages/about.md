@@ -90,4 +90,4 @@ Honors and Awards
 
 Misc
 =====
-Outside of work, I enjoy playing basketball and working out at the gym. I previously served as the captain and coach of the men's basketball teams for the EECS department (for nine years) and CS departments (for two years) at Peking University. I was also a member of Peking University’s second-tier men's basketball team. Currently, I play for Gyzers, the oldest Chinese basketball team at UIUC.
+After work, I enjoy playing basketball and working out at the gym. I was a member of the men's basketball teams for the EECS (for nine years) and CS (for two years) departments at Peking University. I served as the captain and coach of both teams. I was also a member of Peking University’s second-tier men's basketball team. Currently, I play for Gyzers, the oldest Chinese basketball team at UIUC.
