@@ -88,4 +88,6 @@ Honors and Awards
 5. Stars of Tomorrow Internship Program, Microsoft Research Asia, Sep 2020
 6. Intel Scholarship, Intel, Dec 2019
 
-
+Misc
+=====
+Outside of work, I enjoy playing basketball and working out at the gym. I previously served as the captain and coach of the men's basketball teams for the EECS department (for nine years) and CS departments (for two years) at Peking University. I was also a member of Peking University’s second-tier men's basketball team. Currently, I play for Gyzers, the oldest Chinese basketball team at UIUC.
