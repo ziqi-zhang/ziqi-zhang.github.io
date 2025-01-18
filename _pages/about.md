@@ -42,9 +42,14 @@ Selected Publications
   
 Other Publications
 =====
-- **[S&P'25]** Shaofei Li, **Ziqi Zhang**, Haoming Jia, Yao Guo, Xiangqun Chen, and Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks" (**CCF-A**, Accepted)
 
-- **[RTSS'24]** Zhaomeng Deng, **Ziqi Zhang**, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu, and Ding Li. "Interference-free Operating System: A 6 Years’ Experience in Mitigating Cross-Core Interference in Linux" (**CCF-A**, Accepted)
+- **[OOPSLA'25]** Zhineng Zhong, **Ziqi Zhang**, Hanqin Guan, Ding Li. "Orax: A Feedback-Driven Framework for Efficiently Solving Satisfiability Modulo Theories and Oracles" (**CCF-A**, Accepted)
+
+- **[USENIX Security'25]** Yifeng Cai, **Ziqi Zhang**, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Ding Li, Yao Guo, Xiangqun Chen. "I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps" (**CCF-A**, Accepted).
+
+- **[S&P'25]** Shaofei Li, **Ziqi Zhang**, Haoming Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks" (**CCF-A**, Accepted)
+
+- **[RTSS'24]** Zhaomeng Deng, **Ziqi Zhang**, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu, Ding Li. "Interference-free Operating System: A 6 Years’ Experience in Mitigating Cross-Core Interference in Linux" (**CCF-A**, Accepted)
 
 - **[USENIX Security'24]** Yifeng Cai, **Ziqi Zhang**, Jiaping Gui, Bingyan Liu, Xiaoke Zhao, Ruoyu Li, Zhe Li, Ding Li. "FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning" (**CCF-A**, Accepted).
 
