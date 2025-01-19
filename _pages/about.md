@@ -43,7 +43,6 @@ Selected Publications
 Other Publications
 =====
 
-- **[OOPSLA'25]** Zhineng Zhong, **Ziqi Zhang**, Hanqin Guan, Ding Li. "Orax: A Feedback-Driven Framework for Efficiently Solving Satisfiability Modulo Theories and Oracles" (**CCF-A**, Accepted)
 
 - **[USENIX Security'25]** Yifeng Cai, **Ziqi Zhang**, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Ding Li, Yao Guo, Xiangqun Chen. "I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps" (**CCF-A**, Accepted).
 
