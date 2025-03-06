@@ -43,8 +43,9 @@ Selected Publications
 Other Publications
 =====
 
-
 - **[USENIX Security'25]** Yifeng Cai, **Ziqi Zhang**, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Ding Li, Yao Guo, Xiangqun Chen. "I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps" (**CCF-A**, Accepted).
+
+- **[Ubicomp'25]** Yifeng Cai, **Ziqi Zhang**, Ding Li†, Yao Guo, and Xiangqun Chen. “MOSS: Proxy Model-based Full-Weight Aggregation in Federated Learning with Heterogeneous Models” In ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies. (**CCF-A**)
 
 - **[S&P'25]** Shaofei Li, **Ziqi Zhang**, Haoming Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks" (**CCF-A**, Accepted)
 
