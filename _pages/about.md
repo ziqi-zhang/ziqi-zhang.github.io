@@ -16,7 +16,7 @@ Download my [CV](https://ziqi-zhang.github.io/files/ZiqiZhang-CV.pdf) here.
 
 Research Interests
 ======
-1. TEE-based Model Protection: TEE-Shielded DNN Partition [S&P'24, ICML'24]
+1. TEE-based Model Protection: TEE-Shielded DNN Partition [S&P'24, ICML'24, TOSEM'25]
 2. Software Engineering and AI: model slicing [ESEC/FSE'20, ICSE'22], model testing [ISSTA'21]
 3. AI Security: federated learning [ICSE'23, Ubicomp'22, WWW'23], authentication [Security'24], adversarial defense [S&P'25]
 5. Software Security: memory isolation [CCS'23b], security of SGX applications [CCS'23a]
