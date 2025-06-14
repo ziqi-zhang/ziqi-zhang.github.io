@@ -29,6 +29,8 @@ Education
 
 Selected Publications
 =====
+- **[USENIX Security25]** Pengli Wang, Bingyou Dong, Yifeng Cai, Zheng Zhang, Junlin Liu, Huanran Xue, Ye Wu, Yao Zhang, and **Ziqi Zhang** "Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms" (**CCF-A**) [[paper]](files/SEC25-GameOfArrows.pdf)
+
 - **[TOSEM'25]** Ding Li, **Ziqi Zhang**, Mengyu Yao, Yifeng Cai, Yao Guo, and Xiangqun Chen. "TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models". (**CCF-A**) [[paper]](https://dl.acm.org/doi/10.1145/3707453)
 
 - **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. (**CCF-A**) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [[artifact]](https://github.com/ziqi-zhang/TEESlice-artifact) [[tool TAOISM]](https://github.com/ziqi-zhang/TAOISM) [[PPT]](files/TEESlice-SP-upload.pdf)
