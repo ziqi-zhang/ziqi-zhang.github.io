@@ -29,7 +29,7 @@ Education
 
 Selected Publications
 =====
-- **[USENIX Security25]** Pengli Wang, Bingyou Dong, Yifeng Cai, Zheng Zhang, Junlin Liu, Huanran Xue, Ye Wu, Yao Zhang, and **Ziqi Zhang** "Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms" (**CCF-A**) [[paper]](files/SEC25-GameOfArrows.pdf)
+- **[USENIX Security25]** Pengli Wang, Bingyou Dong, Yifeng Cai, Zheng Zhang, Junlin Liu, Huanran Xue, Ye Wu, Yao Zhang, and **Ziqi Zhang**. "Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms" (**CCF-A**) [[paper]](files/SEC25-GameOfArrows.pdf)
 
 - **[TOSEM'25]** Ding Li, **Ziqi Zhang**, Mengyu Yao, Yifeng Cai, Yao Guo, and Xiangqun Chen. "TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models". (**CCF-A**) [[paper]](https://dl.acm.org/doi/10.1145/3707453)
 
