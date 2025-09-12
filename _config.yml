@@ -20,7 +20,7 @@ repository               : "ziqi-zhang/ziqi-zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tour.png"
+  avatar           : "tour.jpeg"
   name             : "Ziqi Zhang (张子祺)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc @ UIUC"
