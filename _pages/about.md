@@ -91,7 +91,7 @@ Invited Talks
 
 Academic Services
 =====
-1. **PC Member**: LLM4Code24, ASE'24, LLM4Code25
+1. **PC Member**: LLM4Code'24, ASE'24, LLM4Code'25, ASE'25, CCS AE'25, FSE'26
 2. **Reviewer**: TDSC'23, WWW'24, WWW'25
 
 Honors and Awards
