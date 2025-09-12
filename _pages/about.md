@@ -45,6 +45,10 @@ Selected Publications
 Other Publications
 =====
 
+- **[S&P'26]** Shaofei Li, Xiao Han, **Ziqi Zhang**, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li, Shuli Gao, Minyao Hua. "PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks" (**CCF-A**, 12.75%)
+
+- **[EMNLP'25]** **Ziq Zhang**, Ali Shahin Shamsabadi, Hanxiao Lu, Yifeng Cai, Hamed Haddadi. "Membership and Memorization in LLM Knowledge Distillation" (**CCF-B**, 22.16%).
+
 - **[USENIX Security'25]** Yifeng Cai, **Ziqi Zhang**, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Ding Li, Yao Guo, Xiangqun Chen. "I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps" (**CCF-A**, Accepted).
 
 - **[Ubicomp'25]** Yifeng Cai, **Ziqi Zhang**, Ding Li, Yao Guo, and Xiangqun Chen. “MOSS: Proxy Model-based Full-Weight Aggregation in Federated Learning with Heterogeneous Models” In ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies. (**CCF-A**)
