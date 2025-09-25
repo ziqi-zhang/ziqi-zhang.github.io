@@ -45,9 +45,9 @@ Selected Publications
 Other Publications
 =====
 
-- **[NeurIPS'25]** Hwiwon Lee, **Ziqi Zhang**, Hanxiao Lu, Lingming Zhang. "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks" (**CCF-A**, 24.52%)
+- **[NeurIPS'25a]** Hwiwon Lee, **Ziqi Zhang**, Hanxiao Lu, Lingming Zhang. "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks" (**CCF-A**, 24.52%)
 
-- **[NeurIPS'25]** Che Wang, **Ziqi Zhang**, Yinggui Wang, Tiantong Wang, Yurong Hao, Jianbo Gao, Tao Wei, Yang Cao, Zhong Chen, Wei Yang Bryan Lim. "AegisGuard: RL-Guided Adapter Tuning for TEE-Based Efficient & Secure On-Device Inference" (**CCF-A**, 24.52%)
+- **[NeurIPS'25b]** Che Wang, **Ziqi Zhang**, Yinggui Wang, Tiantong Wang, Yurong Hao, Jianbo Gao, Tao Wei, Yang Cao, Zhong Chen, Wei Yang Bryan Lim. "AegisGuard: RL-Guided Adapter Tuning for TEE-Based Efficient & Secure On-Device Inference" (**CCF-A**, 24.52%)
 
 - **[S&P'26]** Shaofei Li, Xiao Han, **Ziqi Zhang**, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li, Shuli Gao, Minyao Hua. "PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks" (**CCF-A**, 12.75%)
 
