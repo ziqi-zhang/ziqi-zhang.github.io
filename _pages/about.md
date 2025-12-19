@@ -61,8 +61,6 @@ Other Publications
 
 - **[S&P'25]** Shaofei Li, **Ziqi Zhang**, Haoming Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks" 
 
-- **[RTSS'24]** Zhaomeng Deng, **Ziqi Zhang**, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu, Ding Li. "Interference-free Operating System: A 6 Years’ Experience in Mitigating Cross-Core Interference in Linux"
-
 - **[USENIX Security'24]** Yifeng Cai, **Ziqi Zhang**, Jiaping Gui, Bingyan Liu, Xiaoke Zhao, Ruoyu Li, Zhe Li, Ding Li. "FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning"
 
 - **[ICML'24]** Zheng Zhang, Na Wang, **Ziqi Zhang**, Tianyi Zhang, Jianwei Liu, Yao Zhang, Ye Wu. "GroupCover: A Secure, Efficient and Scalable Inference Framework for On-device Model Protection based on TEEs" (2609/9653=27.03%).
