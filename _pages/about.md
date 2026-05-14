@@ -24,8 +24,8 @@ Research Interests
 
 Education
 =====
-- Ph.D. in Computer Science, School of Computer Science, Peking University, September 2018 - June 2023
-- B.E. in Computer Science, School of EECS, Peking University, September 2014 - June 2018
+- Ph.D. in Computer Science, School of Computer Science, Peking University, 2018 - 2023
+- B.E. in Computer Science, School of EECS, Peking University, 2014 - 2018
 
 Selected Publications
 =====
@@ -45,7 +45,7 @@ Selected Publications
 Other Publications
 =====
 
-
+- **[MLSys'26]** Jianming Tong, Hanshen Xiao, Krishna Kumar Nair, Hao Kang, Ashish Sirasao, Ziqi Zhang, G. Edward Suh, Tushar Krishna "Privatar: Scalable Privacy-preserving Multi-user VR via Secure Offloading"
 
 - **[NeurIPS'25a]** Hwiwon Lee, **Ziqi Zhang**, Hanxiao Lu, Lingming Zhang. "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks" (24.52%)
 
@@ -95,7 +95,7 @@ Invited Talks
 
 Academic Services
 =====
-1. **PC Member**: LLM4Code'24, ASE'24, LLM4Code'25, ASE'25, CCS AE'25, FSE'26
+1. **PC Member**: LLM4Code'24, ASE'24, LLM4Code'25, ASE'25, CCS AE'25, FSE'26, ISSTA'26, ASE'26
 2. **Reviewer**: TDSC'23, WWW'24, WWW'25
 
 Honors and Awards
