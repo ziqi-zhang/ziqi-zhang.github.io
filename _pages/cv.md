@@ -31,17 +31,74 @@ Research Areas
 
 Publications
 ======
-<ul>
+{% assign current_year = "" %}
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% if post.date %}
+    {% assign post_year = post.date | date: "%Y" %}
+  {% else %}
+    {% assign post_year = "Unknown" %}
+  {% endif %}
+  {% if post_year != current_year %}
+    {% unless current_year == "" %}
+      </ul>
+    {% endunless %}
+    <h3>{{ post_year }}</h3>
+    <ul>
+    {% assign current_year = post_year %}
+  {% endif %}
+  {% assign authors = "" %}
+  {% if post.authors %}
+    {% assign authors = post.authors %}
+  {% elsif post.citation and post.citation contains ". " %}
+    {% assign citation_parts = post.citation | split: ". " %}
+    {% assign authors = citation_parts[0] %}
+  {% elsif post.citation %}
+    {% assign authors = post.citation %}
+  {% endif %}
+  {% assign publication_title = post.title | default: "Untitled" %}
+  {% assign title_last_char = publication_title | slice: -1, 1 %}
+  {% assign title_suffix = "." %}
+  {% if title_last_char == "." or title_last_char == "!" or title_last_char == "?" %}
+    {% assign title_suffix = "" %}
+  {% endif %}
+  {% if post.paperurl and post.paperurl != "" %}
+    {% assign publication_link = post.paperurl %}
+    {% assign publication_link_text = "[paper]" %}
+  {% else %}
+    {% assign publication_link = post.url %}
+    {% assign publication_link_text = "[details]" %}
+  {% endif %}
+  {% assign publication_venue = post.venue | default: "Venue TBD" %}
+  <li>
+    [{{ publication_venue }}]
+    {% if authors != "" %}{{ authors }} {% endif %}
+    {{ publication_title }}{{ title_suffix }}
+    <a href="{{ publication_link }}">{{ publication_link_text }}</a>
+  </li>
 {% endfor %}
-</ul>
+{% unless current_year == "" %}
+  </ul>
+{% endunless %}
 
 Talks
 ======
 <ul>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
+  {% assign talk_date = "Unknown date" %}
+  {% if post.date %}
+    {% assign talk_date = post.date | date: "%Y-%m-%d" %}
+  {% endif %}
+  {% if post.link %}
+    {% assign talk_link = post.link %}
+    {% assign talk_link_text = "[link]" %}
+  {% else %}
+    {% assign talk_link = post.url %}
+    {% assign talk_link_text = "[details]" %}
+  {% endif %}
+  <li>
+    {{ talk_date }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}
+    <a href="{{ talk_link }}">{{ talk_link_text }}</a>
+  </li>
 {% endfor %}
 </ul>
 
