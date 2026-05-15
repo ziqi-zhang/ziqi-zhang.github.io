@@ -31,17 +31,30 @@ Research Areas
 
 Publications
 ======
-<ul>
+{% assign current_year = "" %}
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% assign post_year = post.date | date: "%Y" %}
+  {% if post_year != current_year %}
+    {% unless current_year == "" %}
+      </ul>
+    {% endunless %}
+    <h3>{{ post_year }}</h3>
+    <ul>
+    {% assign current_year = post_year %}
+  {% endif %}
+  {% assign citation_parts = post.citation | split: ". " %}
+  {% assign authors = citation_parts[0] %}
+  <li>[{{ post.venue }}] {{ authors }}. {{ post.title }}.{% if post.paperurl and post.paperurl != "" %} <a href="{{ post.paperurl }}">[paper]</a>{% else %} <a href="{{ post.url }}">[details]</a>{% endif %}</li>
 {% endfor %}
-</ul>
+{% unless current_year == "" %}
+  </ul>
+{% endunless %}
 
 Talks
 ======
 <ul>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
+  <li>{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}{% if post.link %} <a href="{{ post.link }}">[link]</a>{% else %} <a href="{{ post.url }}">[details]</a>{% endif %}</li>
 {% endfor %}
 </ul>
 
