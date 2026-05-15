@@ -45,11 +45,19 @@ Publications
   {% assign authors = "" %}
   {% if post.authors %}
     {% assign authors = post.authors %}
+  {% elsif post.citation and post.title and post.citation contains post.title %}
+    {% assign citation_before_title = post.citation | split: post.title | first | strip %}
+    {% assign authors = citation_before_title %}
   {% elsif post.citation and post.citation contains ". " %}
     {% assign citation_parts = post.citation | split: ". " %}
     {% assign authors = citation_parts[0] %}
   {% elsif post.citation %}
     {% assign authors = post.citation %}
+  {% endif %}
+  {% assign title_last_char = post.title | slice: -1, 1 %}
+  {% assign title_suffix = "." %}
+  {% if title_last_char == "." or title_last_char == "!" or title_last_char == "?" %}
+    {% assign title_suffix = "" %}
   {% endif %}
   {% if post.paperurl and post.paperurl != "" %}
     {% assign publication_link = post.paperurl %}
@@ -60,8 +68,8 @@ Publications
   {% endif %}
   <li>
     [{{ post.venue }}]
-    {% if authors != "" %}{{ authors }}. {% endif %}
-    {{ post.title }}.
+    {% if authors != "" %}{{ authors }} {% endif %}
+    {{ post.title }}{{ title_suffix }}
     <a href="{{ publication_link }}">{{ publication_link_text }}</a>
   </li>
 {% endfor %}
