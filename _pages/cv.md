@@ -42,9 +42,26 @@ Publications
     <ul>
     {% assign current_year = post_year %}
   {% endif %}
-  {% assign citation_parts = post.citation | split: ". " %}
-  {% assign authors = citation_parts[0] %}
-  <li>[{{ post.venue }}] {{ authors }}. {{ post.title }}.{% if post.paperurl and post.paperurl != "" %} <a href="{{ post.paperurl }}">[paper]</a>{% else %} <a href="{{ post.url }}">[details]</a>{% endif %}</li>
+  {% assign authors = "" %}
+  {% if post.citation and post.citation contains ". " %}
+    {% assign citation_parts = post.citation | split: ". " %}
+    {% assign authors = citation_parts[0] %}
+  {% elsif post.citation %}
+    {% assign authors = post.citation %}
+  {% endif %}
+  {% if post.paperurl and post.paperurl != "" %}
+    {% assign publication_link = post.paperurl %}
+    {% assign publication_link_text = "[paper]" %}
+  {% else %}
+    {% assign publication_link = post.url %}
+    {% assign publication_link_text = "[details]" %}
+  {% endif %}
+  <li>
+    [{{ post.venue }}]
+    {% if authors != "" %}{{ authors }}. {% endif %}
+    {{ post.title }}.
+    <a href="{{ publication_link }}">{{ publication_link_text }}</a>
+  </li>
 {% endfor %}
 {% unless current_year == "" %}
   </ul>
