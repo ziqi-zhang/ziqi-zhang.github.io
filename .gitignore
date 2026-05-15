@@ -3,3 +3,7 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+
+node_modules/
+vendor/
+.bundle/
