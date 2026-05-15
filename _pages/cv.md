@@ -43,7 +43,9 @@ Publications
     {% assign current_year = post_year %}
   {% endif %}
   {% assign authors = "" %}
-  {% if post.citation and post.citation contains ". " %}
+  {% if post.authors %}
+    {% assign authors = post.authors %}
+  {% elsif post.citation and post.citation contains ". " %}
     {% assign citation_parts = post.citation | split: ". " %}
     {% assign authors = citation_parts[0] %}
   {% elsif post.citation %}
@@ -71,7 +73,17 @@ Talks
 ======
 <ul>
 {% for post in site.talks reversed %}
-  <li>{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}{% if post.link %} <a href="{{ post.link }}">[link]</a>{% else %} <a href="{{ post.url }}">[details]</a>{% endif %}</li>
+  {% if post.link %}
+    {% assign talk_link = post.link %}
+    {% assign talk_link_text = "[link]" %}
+  {% else %}
+    {% assign talk_link = post.url %}
+    {% assign talk_link_text = "[details]" %}
+  {% endif %}
+  <li>
+    {{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}
+    <a href="{{ talk_link }}">{{ talk_link_text }}</a>
+  </li>
 {% endfor %}
 </ul>
 
