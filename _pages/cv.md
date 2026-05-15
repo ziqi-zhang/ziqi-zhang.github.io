@@ -68,8 +68,9 @@ Publications
     {% assign publication_link = post.url %}
     {% assign publication_link_text = "[details]" %}
   {% endif %}
+  {% assign publication_venue = post.venue | default: "Venue TBD" %}
   <li>
-    [{{ post.venue }}]
+    [{{ publication_venue }}]
     {% if authors != "" %}{{ authors }} {% endif %}
     {{ publication_title }}{{ title_suffix }}
     <a href="{{ publication_link }}">{{ publication_link_text }}</a>
@@ -83,6 +84,10 @@ Talks
 ======
 <ul>
 {% for post in site.talks reversed %}
+  {% assign talk_date = "Unknown date" %}
+  {% if post.date %}
+    {% assign talk_date = post.date | date: "%Y-%m-%d" %}
+  {% endif %}
   {% if post.link %}
     {% assign talk_link = post.link %}
     {% assign talk_link_text = "[link]" %}
@@ -91,7 +96,7 @@ Talks
     {% assign talk_link_text = "[details]" %}
   {% endif %}
   <li>
-    {{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}
+    {{ talk_date }} — {{ post.title }}{% if post.venue %}, {{ post.venue }}{% endif %}
     <a href="{{ talk_link }}">{{ talk_link_text }}</a>
   </li>
 {% endfor %}
