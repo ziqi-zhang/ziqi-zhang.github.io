@@ -21,18 +21,14 @@ News
 - 2026 May: Two papers accepted by USENIX Security'26
 
 
-Education
-=====
-- Ph.D. in Computer Science, School of Computer Science, Peking University, 2018 - 2023
-- B.E. in Computer Science, School of EECS, Peking University, 2014 - 2018
-
 Selected Publications
 =====
+- **[USENIX Security'25]** Pengli Wang, Bingyou Dong, Yifeng Cai, Zheng Zhang, Junlin Liu, Huanran Xue, Ye Wu, Yao Zhang, and **Ziqi Zhang**. “Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms”. [[paper]](files/SEC25-GameOfArrows.pdf)
+- **[TOSEM'25]** Ding Li, **Ziqi Zhang**, Mengyu Yao, Yifeng Cai, Yao Guo, and Xiangqun Chen. “TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models”. [[paper]](https://dl.acm.org/doi/10.1145/3707453)
 - **[S&P'24]** **Ziqi Zhang**, Chen Gong, Yuanyuan Yuan, Yifeng Cai, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen. “No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition Defenses”. [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a052/1RjEarlPFew) [[artifact]](https://github.com/ziqi-zhang/TEESlice-artifact) [[tool]](https://github.com/ziqi-zhang/TAOISM)
 - **[ICSE'23]** **Ziqi Zhang**, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. “FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing”. [[paper]](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00049) [[code]](https://zenodo.org/records/7536375)
 - **[ICSE'22]** **Ziqi Zhang**, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. [[paper]](https://ieeexplore.ieee.org/document/9793881/) [[code]](https://github.com/PKU-ASAL/ReMoS_artifact)
 - **[ESEC/FSE'20]** **Ziqi Zhang**, Yuanchun Li, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” [[paper]](https://dl.acm.org/doi/10.1145/3368089.3409676)
-- **[TOSEM'25]** Ding Li, **Ziqi Zhang**, Mengyu Yao, Yifeng Cai, Yao Guo, and Xiangqun Chen. “TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models”. [[paper]](https://dl.acm.org/doi/10.1145/3707453)
-- **[USENIX Security'25]** Pengli Wang, Bingyou Dong, Yifeng Cai, Zheng Zhang, Junlin Liu, Huanran Xue, Ye Wu, Yao Zhang, and **Ziqi Zhang**. “Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms”. [[paper]](files/SEC25-GameOfArrows.pdf)
+
 
 For a complete and up-to-date publication list, please see the [Publications](/publications/) page.
