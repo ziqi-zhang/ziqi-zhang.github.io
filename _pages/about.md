@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Researcher at UIUC working with [Lingming Zhang](https://lingming.cs.illinois.edu/index.html). I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I earned my bachelor's degree from the School of EECS, Peking University.
+Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm currently a Postdoc Researcher at UIUC working with [Lingming Zhang](https://lingming.cs.illinois.edu/index.html). I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I earned my bachelor's degree from the School of EECS, Peking University in 2018. 
 
 Download my [CV](https://ziqi-zhang.github.io/files/ZiqiZhang_CV.pdf), [research statement](https://ziqi-zhang.github.io/files/research_statement.pdf), and [teaching statement](https://ziqi-zhang.github.io/files/teach_statement.pdf).
 
 News
 ======
-- 2026: Paper accepted to IEEE S&P 2026.
-- 2025: Papers accepted to NeurIPS, USENIX Security, ACM TOSEM, and IEEE S&P.
+- 2026 Aug: Two papers accepted by USENIX Security'26
 
 Research Interests
 ======
-- Trusted AI and AI security
-- AI with trusted hardware (SGX, TDX, TrustZone)
-- AI for software engineering (AI4SE)
-- Software engineering for AI (SE4AI)
-- Software and system security
+My research interests span AI security, trusted hardware, and software security. I have published several papers at top-tier conferences in various domains, including computer security (S&P, USENIX Security, CCS), software engineering (ESEC/FSE, ICSE, ISSTA, ISSRE), AI (ICML, WWW), and ubiquitous computing (Ubicomp). Recently, I've been working on the following topics:
+1. TEE-based LLM Protection [S&P'24, ICML'24, TOSEM'25, NeurIPS'25b]
+2. Secure AI platform: federated learning [ICSE'23, Ubicomp'22, WWW'23], authentication [Security'24], adversarial defense [S&P'25]
+3. Cybersecurity agent [NeurIPS'25a]
 
 Education
 =====
