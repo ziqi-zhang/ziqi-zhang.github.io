@@ -19,7 +19,7 @@ I was a Postdoc Researcher at UIUC working with [Lingming Zhang](https://lingmin
 
 News
 ======
-- 2026 May: Two papers accepted by USENIX Security'26
+- 05/2026: Two papers accepted by USENIX Security'26
 
 
 Selected Publications
