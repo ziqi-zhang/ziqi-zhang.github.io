@@ -32,3 +32,30 @@ Selected Publications
 
 
 For a complete and up-to-date publication list, please see the [Publications](/publications/) page.
+
+Academic Services
+=====
+- Program Committee
+  - IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024, 2025, 2026
+  - ACM International Conference on the Foundations of Software Engineering (FSE), 2025, 2026
+  - IEEE/ACM International Conference on Software Engineering
+  - International Workshop on Large Language Models for Code (LLM4Code), 2024, 2025
+- Conference Reviewer
+  - The Web Conference (WWW), 2024, 2025
+- Journal Reviewer
+  - IEEE Transactions on Dependable and Secure Computing (TDSC), 2023, 2025, 2026
+  - IEEE Transaction on Software Engineering (TSE), 2024, 2025
+  - IEEE Transaction on Software Engineering and Methodology (TOSEM), 2025
+
+Honors and Awards
+=====
+1. Outstanding Doctoral Dissertation Award of Peking University, Jun 2023
+2. Outstanding Graduate Award of Peking University, Jun 2023
+3. Merit Student of Peking University, Sep 2022
+4. Jiukun Scholarship, Peking University, Sep 2022
+5. Stars of Tomorrow Internship Program, Microsoft Research Asia, Sep 2020
+6. Intel Scholarship, Intel, Dec 2019
+
+Misc
+=====
+After work, I enjoy playing basketball and working out at the gym. I was a member of the men's basketball teams for the EECS (for nine years) and CS (for two years) departments at Peking University. I served as the captain and coach of both teams. I was also a member of Peking University’s second-tier men's basketball team. Currently, I play for Gyzers, the oldest Chinese basketball team at UIUC.
