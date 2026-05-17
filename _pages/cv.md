@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<object data="{{ base_path }}/files/ZiqiZhang_CV.pdf" type="application/pdf" width="100%" height="1100">
+<object data="{{ base_path }}/files/ZiqiZhang_CV.pdf" type="application/pdf" style="width: 100%; height: calc(100vh - 8rem);">
   <p><a href="{{ base_path }}/files/ZiqiZhang_CV.pdf">Download the CV PDF.</a></p>
 </object>
