@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I'm a Postdoc Researcher at UIUC working with [Lingming Zhang](https://lingming.cs.illinois.edu/index.html). I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I earned my bachelor's degree from the School of EECS, Peking University in 2018. 
-
-Research Interests
-======
+I'm Ziqi Zhang (pronounced as /tzi'chi chang/). I will join the College of Information Sciences and Technology at the Pennsylvania State University (PSU) as an Assistant Professor. 
 My research interests span AI security, trusted hardware, and software security. I have published several papers at top-tier conferences in various domains, including computer security, software engineering, AI, and ubiquitous computing. Recently, I've been working on the following topics:
 1. TEE-based LLM Protection [S&P'24, ICML'24, TOSEM'25, NeurIPS'25b]
 2. Secure AI platform: federated learning [ICSE'23, Ubicomp'22, WWW'23], authentication [Security'24], adversarial defense [S&P'25]
 3. Cybersecurity agent [NeurIPS'25a]
+
+I was a Postdoc Researcher at UIUC working with [Lingming Zhang](https://lingming.cs.illinois.edu/index.html). I received my Ph.D degree in the School of Computer Science from Peking University in 2023, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/), and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). Before that, I earned my bachelor's degree from the School of EECS, Peking University in 2018. 
+
+
 
 News
 ======
